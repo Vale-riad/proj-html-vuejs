@@ -9,6 +9,7 @@ export default {
     <div class="container">
       <div class="header-top">
         <img src="../assets/avada-music-logo.png" />
+        <i class="fa-solid fa-bars"></i>
       </div>
     </div>
   </header>
@@ -20,9 +21,17 @@ header {
   background-image: url(../assets/home_slider.jpg);
   background-size: cover;
   background-repeat: no-repeat;
-  height: 100%;
+  height: 1000px;
   img {
     height: 50px;
+  }
+  .header-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  i {
+    color: #ffffff;
   }
 }
 </style>
