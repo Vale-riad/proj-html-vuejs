@@ -31,6 +31,7 @@ export default {
           recusandae quas veniam dolores natus, vel perspiciatis ut numquam.
         </span>
       </div>
+      <!--gallery con le covers e descrizione immagini-->
       <div class="container text-center">
         <!-- covers-->
         <section class="covers">
@@ -104,7 +105,7 @@ export default {
             </div>
           </div>
 
-          <!-- cover parte -->
+          <!-- cover parte destra -->
           <div class="right-side">
             <div class="box-cover">
               <img src="../assets/blog-post1-600x900.jpg" />
@@ -122,26 +123,27 @@ export default {
               </div>
             </div>
             <div class="box-cover">
-              <a href="#" class="full">
-                <img src="../assets/blog-post2-600x900.jpg" />
+              <img src="../assets/blog-post2-600x900.jpg" />
 
-                <div class="bottom-cover">
-                  <h2>Sharing the stage with a legend</h2>
-                  <p>
-                    Sed sit amet sem turpis. Curabitur cursus lacinia est at
-                    interdum risus id condimentum.
-                  </p>
-                </div>
+              <div class="bottom-cover">
+                <h2>Sharing the stage with a legend</h2>
+                <p>
+                  Sed sit amet sem turpis. Curabitur cursus lacinia est at
+                  interdum risus id condimentum.
+                </p>
+              </div>
 
-                <div class="overlay">
-                  <h2>Sharing the stage with a legend</h2>
-                </div>
-              </a>
+              <div class="overlay">
+                <h2>Sharing the stage with a legend</h2>
+              </div>
             </div>
           </div>
         </section>
       </div>
     </section>
+
+    <!--section live dates-->
+    <h2>VIEW ALL LIVE DATES</h2>
   </main>
 </template>
 
