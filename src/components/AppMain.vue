@@ -19,7 +19,6 @@ export default {
         </span>
       </div>
     </section>
-    <!--gallery con le covers e descrizione immagini-->
     <section class="main-bottom">
       <div class="container text-center">
         <h2>Latest Band News</h2>
@@ -143,7 +142,9 @@ export default {
     </section>
 
     <!--section live dates-->
-    <h2>VIEW ALL LIVE DATES</h2>
+    <section class="news text-center">
+      <h3>VIEW ALL LATEST NEWS</h3>
+    </section>
   </main>
 </template>
 
@@ -271,6 +272,14 @@ export default {
   }
   .box-cover:hover .overlay {
     left: 0;
+  }
+}
+.news {
+  background-color: #ec4958;
+  height: 100px;
+  h3 {
+    color: white;
+    padding: 30px;
   }
 }
 </style>
