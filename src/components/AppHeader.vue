@@ -7,10 +7,12 @@ export default {
 <template>
   <header>
     <div class="container">
+      <!--logo e menù-->
       <div class="header-top">
         <img src="../assets/avada-music-logo.png" />
         <i class="fa-solid fa-bars"></i>
       </div>
+      <!--titolo e bottoni-->
       <div class="header-bottom">
         <h1 class="title">Untold Stories</h1>
         <p><em>There is an untold story behind every favourite song.</em></p>
