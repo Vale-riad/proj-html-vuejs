@@ -15,7 +15,7 @@ export default {
       <!--titolo e bottoni-->
       <div class="header-bottom">
         <h1 class="title">Untold Stories</h1>
-        <p><em>There is an untold story behind every favourite song.</em></p>
+        <p><i>There is an untold story behind every favourite song.</i></p>
         <div class="buttons">
           <button class="btn-red">LATEST ALBUM</button>
           <button class="btn-trasparent">LIVE DATES</button>

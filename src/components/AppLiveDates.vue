@@ -59,7 +59,9 @@ export default {
     </ul>
   </section>
   <section class="ads text-center">
-    <h4>VIEW ALL LIVE DATES</h4>
+    <div class="view">
+      <h4>VIEW ALL LIVE DATES</h4>
+    </div>
   </section>
 </template>
 
@@ -123,6 +125,10 @@ export default {
   h4 {
     font-size: 16px;
     line-height: 45px;
+  }
+  .view:hover h4 {
+    background-color: white;
+    color: black;
   }
 }
 </style>

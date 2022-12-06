@@ -143,7 +143,7 @@ export default {
 
     <!--section live dates-->
     <section class="news">
-      <div class="container text-center">
+      <div class="view text-center">
         <h4>VIEW ALL LATEST NEWS</h4>
       </div>
     </section>
@@ -286,6 +286,11 @@ export default {
   h4 {
     font-size: 16px;
     line-height: 45px;
+  }
+  .view:hover h4 {
+    background-color: white;
+    color: black;
+    width: 100%;
   }
 }
 </style>
