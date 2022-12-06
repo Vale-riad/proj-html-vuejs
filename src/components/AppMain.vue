@@ -13,8 +13,8 @@ export default {
         <hr class="ms-hr" />
         <span class="paragrafo">
           Lorem ipsum dolor, sit amet consectetur adipisicing elit. Itaque
-          mollitia pariatur tempore expedita doloribus suscipit nihil hic enim
-          omnis consectetur iusto,<br />
+          mollitia pariatur tempore expedita doloribus<br />
+          suscipit nihil hic enim omnis consectetur iusto,<br />
           recusandae quas veniam dolores natus, vel perspiciatis ut numquam.
         </span>
       </div>
@@ -25,8 +25,8 @@ export default {
         <hr class="ms-hr" />
         <span class="paragrafo">
           Lorem ipsum dolor, sit amet consectetur adipisicing elit. Itaque
-          mollitia pariatur tempore expedita doloribus suscipit nihil hic enim
-          omnis consectetur iusto,<br />
+          mollitia pariatur tempore expedita doloribus<br />
+          suscipit nihil hic enim omnis consectetur iusto,<br />
           recusandae quas veniam dolores natus, vel perspiciatis ut numquam.
         </span>
       </div>
@@ -142,8 +142,10 @@ export default {
     </section>
 
     <!--section live dates-->
-    <section class="news text-center">
-      <h3>VIEW ALL LATEST NEWS</h3>
+    <section class="news">
+      <div class="container text-center">
+        <h3>VIEW ALL LATEST NEWS</h3>
+      </div>
     </section>
   </main>
 </template>

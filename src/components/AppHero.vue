@@ -8,7 +8,7 @@ export default {
   <section class="hero">
     <div>
       <p class="ms-paragraph">
-        <em
+        <i
           >“I just listened to it and said to myself,<br />
           “Man, I really love this<br />
           album.” Still, today, it just sounds so fresh. It sounds full of
@@ -16,7 +16,7 @@ export default {
           These guys knew what they were doing. They’re good. And they’re<br />
           inventive. I haven’t heard anything this year that’s as inventive.
           I<br />
-          don’t really expect to.”</em
+          don’t really expect to.”</i
         >
       </p>
     </div>
