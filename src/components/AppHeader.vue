@@ -32,6 +32,9 @@ header {
   background-size: cover;
   background-repeat: no-repeat;
   height: 900px;
+  border-bottom: 4px solid;
+  border-color: #ec4958;
+  border-width: 10%;
   img {
     height: 50px;
   }
