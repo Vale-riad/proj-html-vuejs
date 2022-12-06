@@ -90,7 +90,7 @@ export default {
           <div class="info-event">
             <h6 class="py-3">{{ event.title }}</h6>
             <p class="info-p">{{ event.description }}</p>
-            <button class="btn-book">BOOK NOW</button>
+            <button class="btn-book mt-2">BOOK NOW</button>
           </div>
         </div>
       </li>
