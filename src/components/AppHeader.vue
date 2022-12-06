@@ -85,5 +85,9 @@ header {
     color: #ffffff;
     padding: 5px 15px 5px 15px;
   }
+  .btn-trasparent:hover {
+    background-color: white;
+    color: black;
+  }
 }
 </style>

@@ -80,8 +80,10 @@ export default {
     padding: 5px;
     color: #7d7b8d;
   }
-  a {
+  a:hover {
     font-size: 14px;
+    cursor: pointer;
+    color: white;
   }
 }
 .footer-bottom {
