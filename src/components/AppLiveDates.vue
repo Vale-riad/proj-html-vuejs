@@ -58,6 +58,9 @@ export default {
       <li></li>
     </ul>
   </section>
+  <section class="ads text-center">
+    <h4>VIEW ALL LIVE DATES</h4>
+  </section>
 </template>
 
 <style lang="scss" scoped>
@@ -65,6 +68,8 @@ export default {
   background-color: #252a33;
   padding: 50px;
   color: white;
+  padding-bottom: 100px;
+
   .ms-hr {
     width: 144px;
     color: lightgray;
@@ -83,11 +88,12 @@ export default {
     list-style: none;
     width: 70%;
     margin-left: 200px;
+    margin-bottom: 50px;
   }
   li:not(:last-child) {
     color: #ec4958;
     background-color: #323844;
-    margin: 10px;
+    margin: 5px;
     padding: 10px;
   }
   .plus {
@@ -105,6 +111,18 @@ export default {
   }
   span {
     font-size: 12px;
+  }
+}
+.ads {
+  background-color: #ec4958;
+  height: 100px;
+  h4 {
+    color: white;
+    padding: 30px;
+  }
+  h4 {
+    font-size: 16px;
+    line-height: 45px;
   }
 }
 </style>

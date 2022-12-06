@@ -144,7 +144,7 @@ export default {
     <!--section live dates-->
     <section class="news">
       <div class="container text-center">
-        <h3>VIEW ALL LATEST NEWS</h3>
+        <h4>VIEW ALL LATEST NEWS</h4>
       </div>
     </section>
   </main>
@@ -279,9 +279,13 @@ export default {
 .news {
   background-color: #ec4958;
   height: 100px;
-  h3 {
+  h4 {
     color: white;
     padding: 30px;
+  }
+  h4 {
+    font-size: 16px;
+    line-height: 45px;
   }
 }
 </style>
