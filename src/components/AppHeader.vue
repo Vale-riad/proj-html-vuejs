@@ -22,6 +22,7 @@ export default {
         </div>
       </div>
     </div>
+    <div class="ms-hr"></div>
   </header>
 </template>
 
@@ -32,11 +33,17 @@ header {
   background-size: cover;
   background-repeat: no-repeat;
   height: 900px;
-  border-bottom: 4px solid;
-  border-color: #ec4958;
-  border-width: 10%;
+  position: relative;
   img {
     height: 50px;
+  }
+  .ms-hr {
+    width: 300px;
+    padding: 5px;
+    background-color: #ec4958;
+    position: absolute;
+    bottom: -10px;
+    right: 40%;
   }
   .header-top {
     display: flex;
