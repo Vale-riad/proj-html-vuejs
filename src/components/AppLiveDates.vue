@@ -86,7 +86,9 @@ export default {
         ><span class="name">{{ event.name }}</span
         ><span class="location">{{ event.location }} </span>
         <div class="map" v-show="event.active === true">
-          <img :src="event.img" />
+          <div class="map-img">
+            <img :src="event.img" />
+          </div>
           <div class="info-event">
             <h6 class="py-3">{{ event.title }}</h6>
             <p class="info-p">{{ event.description }}</p>
@@ -141,14 +143,16 @@ export default {
       color: white;
       display: flex;
       padding: 20px;
+      .map-img {
+        padding: 10px;
+      }
 
       img {
         width: 350px;
         height: auto;
       }
       .info-event {
-        padding: 20px;
-        padding-top: 10px;
+        padding-left: 25px;
       }
       .info-p {
         color: #7d7b8d;
