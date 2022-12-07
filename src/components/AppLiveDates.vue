@@ -19,7 +19,7 @@ export default {
           name: "GROOVEFEST",
           location: "DOMINICAL REPUBLIC",
           title: "Untold Stories",
-          img: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Georgia_location_map.svg/1920px-Georgia_location_map.svg.png",
+          img: "https://www.google.com/maps/vt/data=bDCVItW000GWwiKt3sG2mUzo7XLyWTBr1PS1G56ivIfhBO3OrypVyQduJscZyJEnz-UPBIvb4lS6xhSY1UlKO9JEfkKcmC-xP2m7EzOqGJZSmOedoA_eBeP_KjoWpNN578O6tLceCAZh9VTk3-dwhFm1j4mn7A0zeRbvr8XLpNTm2uRIDUZPm4ysB2a_CEpOE2NXdW60lQU5-jL80aG-fXkhfcN1Z4N42xkLALv7onwm7GlV0qBUjkokOuPc",
           description:
             "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Itaque mollitia pariatur tempore expedita doloribus recusandae quas veniam dolores natus, vel perspiciatis ut numquam.",
           active: false,
@@ -29,7 +29,7 @@ export default {
           name: "OASIS FESTIVAL 2020",
           location: "MARRAKECH, MOROCCO",
           title: "Untold Stories",
-          img: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Georgia_location_map.svg/1920px-Georgia_location_map.svg.png",
+          img: "https://www.google.com/maps/vt/data=4BkqIbRW42jnAUIzfo4lqfdQZfOUPDsvjl_z-KQJusqAeWLFAX6L6ZyKWnhyGkvpDjlrKvj_Wgp_H-eU-ySXa-6dDWwPkqEMTsdzKSJczJa9216erJIuBCwotXaBec4v-gc4OJxIjvmzXxcrgxevaOM5j0iUjG3ZqcCGCt_zay5yeBB18mpoPrFwrapcq1yeIwS0nmVDmQUHZdQqoArgpYx3D7Y5vaDpuyb-pknHbGdL3s6Q_mq_JJ_1-6I",
           description:
             "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Itaque mollitia pariatur tempore expedita doloribus recusandae quas veniam dolores natus, vel perspiciatis ut numquam.",
           active: false,
@@ -39,7 +39,7 @@ export default {
           name: "MOGA FESTIVAL",
           location: "ESSAOURIA, MAROCCO",
           title: "Untold Stories",
-          img: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Georgia_location_map.svg/1920px-Georgia_location_map.svg.png",
+          img: "https://www.google.com/maps/vt/data=SbGpsmF1i-9FTlsP8-aW-bbsiM-ie06BAbFNnuCywrDy5oq-Z0vFrzgsyOTLb-neKY1lD-2UkICyzCGaTy-wPr_aPcxhW6NvfxiIeN_Jiovb3IEPUykzjNqJ7POsZ6C6vPcRkZtxuJpJ9C1PcAep5-_FbfYvgldMwjWYuyZ2vr2UO3CgCLlpPxn45nvfNgaOoBSLAGi1LyDT9ZTnbpvUbuiPG6Vt2O9e3tk9JdLL8U5ibcGsTvRlWsuMuGM",
           description:
             "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Itaque mollitia pariatur tempore expedita doloribus recusandae quas veniam dolores natus, vel perspiciatis ut numquam.",
           active: false,
@@ -49,7 +49,7 @@ export default {
           name: "ENVISION FESTIVAL",
           location: "UVITA, COSTA RICA",
           title: "Untold Stories",
-          img: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Georgia_location_map.svg/1920px-Georgia_location_map.svg.png",
+          img: "https://www.google.com/maps/vt/data=XoK3WWwSqm_vA5sw9DmAzTW11wmuUDfxoqNz8Eh7ytVuw8xORGarSZ4dnmQiqkkD6BV4w6jonp70QBmzD_zS_PuhiCIoIq-FBA7MZrA6S6V7DCTlih-1ACwoBVA9EjYBDuJ-2JrXfV2LRYghpuKkr-UN1bgrhCcpqeKPyoSOon1tjWTAmU4SulOMTib2JGO-N6bZ3noTCU0tVLxRUkxs_Ai9WLy0tnMl-75L9k_biGc8IZ_ZL3hHjeRpzDVo",
           description:
             "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Itaque mollitia pariatur tempore expedita doloribus recusandae quas veniam dolores natus, vel perspiciatis ut numquam.",
           active: false,
