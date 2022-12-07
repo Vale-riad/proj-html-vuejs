@@ -80,7 +80,7 @@ export default {
 
     <ul class="dates mt-5">
       <li v-for="(event, index) in events" @click="chooseEvent(index)">
-        <span v-if="event.active" class="plus">-</span>
+        <span v-if="event.active" class="minus">-</span>
         <span v-else class="plus">+</span>
         <span class="date">{{ event.date }}</span
         ><span class="name">{{ event.name }}</span
@@ -160,6 +160,11 @@ export default {
         border: none;
       }
     }
+  }
+  .minus {
+    background-color: #ec4958;
+    padding: 1px 5px;
+    color: white;
   }
   .plus {
     color: white;
