@@ -96,7 +96,6 @@ export default {
           </div>
         </div>
       </li>
-      <li></li>
     </ul>
   </section>
   <section class="ads text-center">
@@ -133,7 +132,7 @@ export default {
     margin-left: 200px;
     margin-bottom: 50px;
   }
-  li:not(:last-child) {
+  li {
     color: #ec4958;
     background-color: #323844;
     margin: 5px;
